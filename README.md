@@ -1,5 +1,5 @@
 [![@dadaji's Holopin board](https://holopin.me/dadaji)](https://holopin.io/@dadaji)
-### Hi there 👋, Myself Achintya Saxena, an IT undergrad currently in pre-final year at MNNIT Allahabad
+### Hi there 👋, Myself Achintya Saxena
 
 You can reach me at **sachintyas05@gmail.com** 
 - 🔭 I’m currently working on my coding skills, alongside with learning development in various platforms
